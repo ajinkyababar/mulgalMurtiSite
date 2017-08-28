@@ -1,0 +1,23 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Mulgalmurti Kirana Store Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkyababar/mulgalMurtiSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkyababar/mulgalMurtiSite/issues"
+  },
+   "engines": {
+ "node": "~4.2.1",
+ "npm": "~2.2.0"
+ }, 
+  "homepage": "https://github.com/ajinkyababar/mulgalMurtiSite#readme"
+}
